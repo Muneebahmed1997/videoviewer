@@ -6,11 +6,11 @@ import { MaterialIcons, Octicons } from '@expo/vector-icons';
 export default class App extends React.Component {
    render() {
       const { width } = Dimensions.get('window');
-const VIDEOS = [   // replace these links with links to your videos
-   'https://s3.amazonaws.com/bostondelhi/onboarding_screen.mp4',
-   'https://s3.amazonaws.com/bostondelhi/V2_edited.mp4',
-   'https://s3.amazonaws.com/bostondelhi/V3_edited.mp4',
-   'https://s3.amazonaws.com/bostondelhi/V4_edited.mp4'
+const VIDEOS = [  
+   'http://mezquitalroutes.mx/NOVENTAS/MedabotsE2T1.mp4',
+   'http://mezquitalroutes.mx/NOVENTAS/MedabotsE2T1.mp4',
+   'http://mezquitalroutes.mx/NOVENTAS/MedabotsE2T1.mp4',
+   'http://mezquitalroutes.mx/NOVENTAS/MedabotsE2T1.mp4'
 ]
 export default class App extends React.Component {
    state = {
